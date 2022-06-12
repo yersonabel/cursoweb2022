@@ -1,0 +1,46 @@
+body{
+    background-color: darkblue;
+}
+.contenedor{
+    background-color: white;
+    margin: auto;
+}
+.borde1{
+    border-style: dotted;
+}
+.borde2{
+    border-style: dashed;
+}
+.borde3{
+    border-style: solid;
+}
+.borde4{
+    border-style: double;
+}
+.borde5{
+    border-style: groove;
+}
+.borde6{
+    border-style: ridge;
+}
+.borde7{
+    border-style: inset;
+}
+.borde8{
+    border-style: outset;
+}
+.borde9{
+    border-style: none;
+}
+.borde10{
+    border-style: hidden;
+}
+.borde11{
+    border-style: dotted dashed;
+}
+.borde12{
+    border-style: dotted dashed solid;
+}
+.borde13{
+    border-style: dotted dashed solid double;
+}

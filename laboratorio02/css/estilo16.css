@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2? family=Koulen&family=Macondo&display=swap');
+
+body{
+    background-color: bisque;
+}
+.contenedor{
+    background-color: white;
+    margin: auto;
+}
+.fuente1{
+    font-family: 'Koulen', cursive;
+}
+.fuente2{
+    font-style: italic;
+}
+.fuente3{
+    font-style: oblique;
+}
+.fuente4{
+    font-style: normal;
+}
+.fuente5{
+    font-weight: bold;
+}
+.fuente6{
+    font-weight: bolder;
+}
+.fuente7{
+    font-style: small;
+}
+.fuente8{
+    font-variant: small-caps
+}
+.fuente9{
+    font-size: 25px;
+}
